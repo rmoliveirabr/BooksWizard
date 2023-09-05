@@ -1,0 +1,16 @@
+1. Install packages
+npm init
+npm install express
+npm install nodemon
+npm run start (instead of "node app.js", to use nodemon)
+
+npm install mongodb OR
+npm install mongoose
+
+npm install openai
+npm install dotenv
+
+MongoDB Compass (to view data)
+
+2. Rename .env.example to .env, and set values
+3. Run with 'npm run start'
